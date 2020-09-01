@@ -1,0 +1,22 @@
+<svg id="macciato" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.828" height="60.69" viewBox="0 0 40.828 60.69">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_6" data-name="Clip 6" d="M0,0H40.763V60.653H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="macciato-2" data-name="macciato" transform="translate(0.008 0.029)">
+    <path id="Fill_1" data-name="Fill 1" d="M1.689,11.881,0,0H23.427L21.737,11.881H1.689" transform="translate(8.664 47.524)" fill="#c69a80"/>
+    <path id="Fill_2" data-name="Fill 2" d="M0,8.8V4.912L26.017,0V8.8H0" transform="translate(6.862 1.142)" fill="#c69a80"/>
+    <path id="Fill_3" data-name="Fill 3" d="M26.13,18.963H2.7L0,0H28.833l-2.7,18.962ZM18.808,9.025a8.6,8.6,0,0,1-3.153,2.17c-1.508.765-2.8,1.559-3.379,3.541a.826.826,0,0,1,.282.057.826.826,0,0,0,.282.057,6.408,6.408,0,0,0,4.279-2.513,7.2,7.2,0,0,0,1.689-3.313Zm-2.815-4A6.413,6.413,0,0,0,11.714,7.54a8.259,8.259,0,0,0-1.577,2.742A11.229,11.229,0,0,1,13.4,8l.153-.083c1.373-.748,2.457-1.339,3-2.773a1.34,1.34,0,0,1-.373-.072.794.794,0,0,0-.19-.043h0Z" transform="translate(5.961 28.56)" fill="#b98875"/>
+    <path id="Fill_4" data-name="Fill 4" d="M0,7.654H38.631V0H0Z" transform="translate(1.118 9.939)" fill="#eabfa5"/>
+    <g id="Group_8" data-name="Group 8">
+      <path id="Clip_6-2" data-name="Clip 6" d="M0,0H40.763V60.653H0Z" fill="none"/>
+      <g id="Group_8-2" data-name="Group 8" clip-path="url(#clip-path)">
+        <path id="Fill_5" data-name="Fill 5" d="M1.577,10.967,0,0H31.986L30.41,10.967H1.577" transform="translate(4.384 17.593)" fill="#c69a80"/>
+        <path id="Fill_7" data-name="Fill 7" d="M30.41,60.661H10.362a1.207,1.207,0,0,1-1.126-1.028L3.492,18.849H2.252A2.271,2.271,0,0,1,0,16.565V11.081A2.271,2.271,0,0,1,2.252,8.8H5.744V6.055a1.113,1.113,0,0,1,.9-1.143L32.549,0h.225A1.074,1.074,0,0,1,33.9,1.142V8.8h4.618a2.271,2.271,0,0,1,2.252,2.284v5.37a2.271,2.271,0,0,1-2.252,2.284H37.28l-5.744,40.9A1.209,1.209,0,0,1,30.41,60.661ZM9.911,48.78l1.352,9.482H29.508l1.239-9.482ZM7.321,29.7,9.686,46.381h21.4L33.563,29.7ZM5.744,18.735l1.238,8.683H33.788l1.238-8.683ZM2.252,11.081v5.37H38.632v-5.37ZM31.761,2.514,8,6.969V8.8H31.761Z" transform="translate(-0.008 0)" fill="#231514"/>
+      </g>
+    </g>
+    <path id="Fill_9" data-name="Fill 9" d="M9.092.608C7.515-.763,4.361.265,2.109,2.892S-.707,8.833.982,10.2c.9-6.169,7.1-4.113,8.109-9.6" transform="translate(14.665 32.522)" fill="#fde9da"/>
+    <path id="Fill_10" data-name="Fill 10" d="M0,9.6c1.577,1.371,4.73.343,6.983-2.285S9.8,1.371,8.109,0C7.1,5.483.9,3.427,0,9.6" transform="translate(16.998 34.272)" fill="#fde9da"/>
+  </g>
+</svg>

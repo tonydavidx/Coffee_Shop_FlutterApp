@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125.5" height="168" viewBox="0 0 125.5 168">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H115.92V68.027H0Z" transform="translate(0 0.235)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(-142.5 -364)">
+    <g id="logo" transform="translate(127 363.941)">
+      <g id="Espresso" transform="translate(24)">
+        <g id="Group">
+          <g id="Group_4" data-name="Group 4" transform="translate(0 48.561)">
+            <path id="Clip_2-2" data-name="Clip 2" d="M0,0H115.92V68.027H0Z" transform="translate(0 0.235)" fill="none"/>
+            <g id="Group_4-2" data-name="Group 4" clip-path="url(#clip-path)">
+              <path id="Fill_1" data-name="Fill 1" d="M44.873,63.335C20.2,63.335,0,39.555,0,10.36V0H89.511V10.36c0,29.2-19.97,52.976-44.638,52.976" transform="translate(2.349 2.59)" fill="#b98068"/>
+              <path id="Fill_3" data-name="Fill 3" d="M47.222,68.045A41.111,41.111,0,0,1,28.842,63.7a47.378,47.378,0,0,1-15.01-11.846A56.418,56.418,0,0,1,3.711,34.272,63.31,63.31,0,0,1,0,12.714V2.354A2.226,2.226,0,0,1,2.349,0h99.614a15.022,15.022,0,0,1,6.02,1.589,13.41,13.41,0,0,1,4.787,4.062,18.191,18.191,0,0,1,2.936,7.387,17.387,17.387,0,0,1-.587,7.917,24.658,24.658,0,0,1-4.864,9.135,30.956,30.956,0,0,1-7.441,6.376,38.506,38.506,0,0,1-8.278,3.859,32.744,32.744,0,0,1-7.375,1.585,51.894,51.894,0,0,1-16.71,18.9,43.276,43.276,0,0,1-11.009,5.342A40.351,40.351,0,0,1,47.222,68.045ZM4.7,4.709v8.005c0,27.913,18.97,50.621,42.288,50.621,23.448,0,42.524-22.709,42.524-50.621V4.709Zm89.51.236v8a64.549,64.549,0,0,1-4.7,24.017c6.435-1.411,18.131-6.618,21.144-17.188a12.217,12.217,0,0,0-1.409-11.065,8.992,8.992,0,0,0-7.283-3.767H94.209Z" transform="translate(0 0.235)" fill="#2d140d"/>
+            </g>
+          </g>
+          <path id="Fill_5" data-name="Fill 5" d="M2.349,29.9A2.222,2.222,0,0,0,4.7,27.547V2.354A2.222,2.222,0,0,0,2.349,0,2.222,2.222,0,0,0,0,2.354V27.547A2.357,2.357,0,0,0,2.349,29.9" transform="translate(36.885 13.715)" fill="#2d140d"/>
+          <path id="Fill_6" data-name="Fill 6" d="M2.349,43.558A2.222,2.222,0,0,0,4.7,41.2V2.354A2.222,2.222,0,0,0,2.349,0,2.222,2.222,0,0,0,0,2.354V41.2a2.529,2.529,0,0,0,2.349,2.354" transform="translate(52.626 0.059)" fill="#2d140d"/>
+        </g>
+      </g>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="121" height="5" rx="2.5" transform="translate(20 127)" fill="#2d140d"/>
+    </g>
+    <text id="Menu" transform="translate(142.5 527)" fill="#b98068" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" fill="#000">COFFEE </tspan><tspan y="0" fill="#b98068" font-family="SegoeUI-Bold, Segoe UI" font-weight="700">HUB</tspan></text>
+  </g>
+</svg>
